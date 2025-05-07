@@ -1,0 +1,13 @@
+# Object files
+*.o
+
+# Executables
+*.exe
+Tic
+
+# Build directory
+build/
+
+# Editor backup files
+*~
+*.swp
